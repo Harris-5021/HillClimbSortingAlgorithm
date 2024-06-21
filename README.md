@@ -1,9 +1,21 @@
 # HillClimbSortingAlgorithm
 This Project is a hill climb algorithm that sorts bricks into two trucks. 
+
+
 The bricks are stored within the bricks.csv file. 
+
+
 Max iterations and Mutation rate can be altered within ValueBalancer.java
+
+
 The output will be represented in binary digits. Each brick is represented by a binary digit.
+
+
 At the end of each iteration a Fitness value is displayed, after each iteration the algorithm will try to find a better fitness value. 
+
+
+
+
 SEE BELOW FOR AN EXAMPLE OUTPUT:
 Iteration 1: Binary string = [1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]:Fitness = 445.76
 Iteration 2: Binary string = [1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1]:Fitness = 445.76
